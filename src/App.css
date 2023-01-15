@@ -1,0 +1,8 @@
+.App {
+  padding-top: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  align-items: center;
+  min-height: 100vh;
+}

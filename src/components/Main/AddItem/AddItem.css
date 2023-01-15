@@ -1,0 +1,26 @@
+.form {
+  display: flex;
+
+  justify-content: center;
+  margin-bottom: 16px;
+
+}
+
+.form__input {
+ border:none;
+  width:450px !important;
+  margin-bottom:-16px;
+  padding: 10px 6px;
+  font-size: 18px;
+  font-weight: 600;
+   font-style: italic;
+  
+  color: #000000;
+
+}
+
+.form__input::placeholder {
+  color: #e6e6e6 ;
+  
+}
+
